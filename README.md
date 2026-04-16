@@ -28,5 +28,5 @@ Setosa is linearly separable and predicted with 100% accuracy. Versicolor and Vi
 Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 
 ## Files
-1. `Iris_Flower_Classification.ipynb` - Complete analysis with EDA and model outputs
-2. `Iris_Flower_Classification.py` - Python script version
+1. `iris.ipynb` - Complete analysis with EDA and model outputs
+2. `iris.py` - Python script version
